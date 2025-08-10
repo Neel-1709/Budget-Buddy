@@ -66,7 +66,7 @@ if st.button("Get Budget Advice"):
         You are a certified financial advisor. Use the information below to provide a personalized, detailed budgeting and financial planning analysis.
 
         User Profile:
-        - Number of Dependents: {dependents_val}
+        - Number of Dependents: {dependents}
         - Age: {age_val}
         - Region/City: {region_val}
         - Monthly Net Income: ${income_val}
