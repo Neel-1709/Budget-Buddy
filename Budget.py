@@ -67,28 +67,27 @@ if st.button("Get Budget Advice"):
 
         User Profile:
         - Number of Dependents: {dependents}
-        - Age: {age_val}
-        - Region/City: {region_val}
-        - Monthly Net Income: ${income_val}
+        - Age: {age}
+        - Region/City: {region}
+        - Monthly Net Income: ${income}
 
         Monthly Expenses Breakdown:
-        - Utilities: ${utilities_val}
-        - Groceries: ${groceries_val}
-        - Insurance: ${insurance_val}
-        - Transportation: ${transportation_val}
-        - Other Necessary Expenses: ${other_expenses_val}
-        - Total Monthly Expenses: ${total_expenses}
+        - Utilities: ${utilities}
+        - Groceries: ${groceries}
+        - Insurance: ${insurance}
+        - Transportation: ${transportation}
+        - Other Necessary Expenses: ${other_expenses}
 
         Financial Overview:
-        - Current Savings: ${current_savings_val}
-        - Investments: {investments_val}
-        - Total Debt: ${total_debt_val}
-        - Monthly Debt Payment: ${monthly_debt_payment_val}
+        - Current Savings: ${current_savings}
+        - Investments: {investments}
+        - Total Debt: ${total_debt}
+        - Monthly Debt Payment: ${monthly_debt_payment}
 
         Financial Goals and Preferences:
-        - Primary Financial Goal: {goal_val}
-        - Risk Tolerance: {risk_val}
-        - Major Upcoming Expenses: {upcoming_val}
+        - Primary Financial Goal: {goal}
+        - Risk Tolerance: {risk}
+        - Major Upcoming Expenses: {upcoming}
 
         Please organize your response into these sections:
         1. Summary of the User’s Current Financial Situation
